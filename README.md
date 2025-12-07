@@ -73,7 +73,5 @@ Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📄 License
-Distributed under the MIT License. See LICENSE for more information. (If you haven't added a license yet, you can delete this section or add an MIT license file).
 
-<p align="center"> Built with ❤️ by <a href="https://www.google.com/search?q=https://github.com/HimadriNag">Himadri Nag</a> </p>
+
