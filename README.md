@@ -2,6 +2,9 @@
 
 A simple and efficient task management application built with **JavaScript** and **Vite**. This project allows users to organize their daily tasks with a clean and responsive user interface.
 
+## 🔗 Live Demo
+You can view the live application here: [to-do-zeta-topaz.vercel.app](https://to-do-zeta-topaz.vercel.app)
+
 ## 🚀 Features
 
 - **Add Tasks**: Quickly add new tasks to your list.
@@ -72,6 +75,7 @@ Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
+
 
 
 
